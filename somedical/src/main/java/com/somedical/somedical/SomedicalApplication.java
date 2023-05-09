@@ -1,4 +1,4 @@
-package com.somedicale.somedical;
+package com.somedical.somedical;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

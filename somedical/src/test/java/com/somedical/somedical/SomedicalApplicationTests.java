@@ -1,4 +1,4 @@
-package com.somedicale.somedical;
+package com.somedical.somedical;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
